@@ -1,3 +1,5 @@
+package Day_1;
+
 public class TernaryOperator {
     public static void main(String[] args) {
         int n = 2;

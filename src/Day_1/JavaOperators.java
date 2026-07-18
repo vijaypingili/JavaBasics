@@ -1,3 +1,5 @@
+package Day_1;
+
 public class JavaOperators {
     public static void main(String[] args) {
 //        Arithmetic operators

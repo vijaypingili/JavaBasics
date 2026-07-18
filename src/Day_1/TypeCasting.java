@@ -1,3 +1,5 @@
+package Day_1;
+
 public class TypeCasting {
     public static void main(String[] args) {
 //        byte a = 127;

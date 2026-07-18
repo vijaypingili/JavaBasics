@@ -1,3 +1,5 @@
+package Day_1;
+
 public class SwitchStatements {
     public static void main(String[] args) {
         String day = "thursday";
